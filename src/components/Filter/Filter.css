@@ -1,0 +1,26 @@
+.filterInput{
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    }
+    
+    .filterText{
+    margin-left: 20px;
+    color: grey;
+    
+    }
+    
+    .filterTitle{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+    }
+    
+    ul {
+    list-style: none;
+    }
+    
+    .form-control {
+    width: 220px;
+    }
